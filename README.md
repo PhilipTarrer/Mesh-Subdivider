@@ -1,7 +1,7 @@
 # Mesh-Subdivider
 Philip Tarrer
 
-Recursively subdivides triangular polygons of complex shapes as well as inflates the meshes into geodesic spheres 
+Recursively subdivides triangular polygon meshes on complex shapes as well as inflates the meshes into geodesic spheres 
 
 Running:
 keys 1 - 4 change the shape to run the program on,  
